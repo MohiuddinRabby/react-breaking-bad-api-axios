@@ -6,9 +6,10 @@
 ------
 ##### Install dependencies
 
-**clone or download**
-**npm install**
+>clone or download from the repository
+
+>run 'npm install'
 
 ------
 ##### Run app
-**npm run**
+>npm start
